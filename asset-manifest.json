@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ananolive-chat/static/css/main.17f34fae.css",
+    "main.js": "/ananolive-chat/static/js/main.ce330d94.js",
+    "index.html": "/ananolive-chat/index.html",
+    "main.17f34fae.css.map": "/ananolive-chat/static/css/main.17f34fae.css.map",
+    "main.ce330d94.js.map": "/ananolive-chat/static/js/main.ce330d94.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17f34fae.css",
+    "static/js/main.ce330d94.js"
+  ]
+}
